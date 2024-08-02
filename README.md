@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Aamirlone004
 - 👀 I’m interested in learning new skills
-- 🌱 I’m currently learning c++
+- 🌱 I’m currently learning react
 - 📫 How to reach me ...aamirlone004@gmail.com
 
 <!---
