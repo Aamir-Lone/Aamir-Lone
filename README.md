@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Aamir-Lone
 - 👀 I’m interested in learning new skills
-- 🌱 I’m currently learning Golang
+- 🌱 I’m currently learning python
 - 📫 you can reach me at ... aamirlone004@gmail.com
 
 <!---
