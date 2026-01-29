@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Aamir-Lone
 - 👀 I’m interested in learning new skills
-- 🌱 I’m currently learning python
+- 🌱 I’m currently learning MERN
 - 📫 you can reach me at ... aamirlone004@gmail.com
 
 <!---
